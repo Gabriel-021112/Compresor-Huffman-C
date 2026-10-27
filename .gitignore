@@ -1,0 +1,18 @@
+# Ejecutables
+/comprimir
+/descomprimir
+/huffman
+
+# Archivos objeto y temporales
+*.o
+*.out
+*~
+*.swp
+
+# Archivos generados al probar
+*.huf
+*.bin
+texto*.txt
+origen.txt
+recuperado.txt
+*_recuperado*
